@@ -1,0 +1,43 @@
+
+
+
+/* nav bar */
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    color: #ff69b4;
+    letter-spacing: 2px;
+  }
+  
+  .navbar-nav .nav-link {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-left: 10px;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ff69b4;
+  }
+/* classy-paragraph */
+.classy-paragraph {
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+    margin-right: 100px ;
+  }
+  
+  .classy-paragraph::first-letter {
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+    margin-right: 5px;
+    color: #ff69b4;
+    
+   
+  }
